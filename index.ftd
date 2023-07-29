@@ -132,7 +132,7 @@ link: https://instagram.com/https://www.instagram.com/grisha_.m/
 image: $assets.files.images.instagram.png
 
 -- social.social-button-wrapper:
-link: mailto:grisha.jit1@gmail.com
+link: mailto:https://mail.google.com/mail/u/1/#inbox
 image: $assets.files.images.mail.png
 
 -- end: ftd.row
